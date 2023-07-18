@@ -1,0 +1,14 @@
+[
+{
+    "image_ED": "/home/yqinar/FSDiffReg/toy_sample/Patient1/fixed.nii.gz",
+    "image_ES": "/home/yqinar/FSDiffReg/toy_sample/Patient1/moving.nii.gz",
+    "label_ED": "/home/yqinar/FSDiffReg/toy_sample/Patient1/fixed_gt.nii.gz",
+    "label_ES": "/home/yqinar/FSDiffReg/toy_sample/Patient1/moving_gt.nii.gz"
+},
+{
+    "image_ED": "/home/yqinar/FSDiffReg/toy_sample/Patient2/fixed.nii.gz",
+    "image_ES": "/home/yqinar/FSDiffReg/toy_sample/Patient2/moving.nii.gz",
+    "label_ED": "/home/yqinar/FSDiffReg/toy_sample/Patient2/fixed_gt.nii.gz",
+    "label_ES": "/home/yqinar/FSDiffReg/toy_sample/Patient2/moving_gt.nii.gz"
+}
+]
