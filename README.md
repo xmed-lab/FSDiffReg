@@ -11,7 +11,7 @@ pip install -r requirements.txt
 to install the environment. We used PyTorch 1.12.0, Python 3.8.10 for training.
 
 ## Data
-* We used 3D cardiac MR images for training: [ACDC dataset](https://acdc.creatis.insa-lyon.fr/description/databases.html)
+* We used 3D cardiac MR images for training: [ACDC dataset](https://www.creatis.insa-lyon.fr/Challenge/acdc/)
 
 ## Training
 
